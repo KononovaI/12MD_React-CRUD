@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Out of the ruins",
+      "author": "Tina Tran",
+      "topic": "Psihology",
+      "year": "2022",
+      "created": "2023-11-22T20:31:46.480Z",
+      "img": "https://picsum.photos/15/15",
+      "id": 1
+    },
+    {
+      "title": "Women who don't give a f'ck",
+      "author": "Janne Robinson",
+      "topic": "Fiction",
+      "year": "2023",
+      "created": "2023-11-24T20:31:46.480Z",
+      "img": "https://picsum.photos/15",
+      "id": 2
+    }
+  ]
+}

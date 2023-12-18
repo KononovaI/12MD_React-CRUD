@@ -1,0 +1,46 @@
+.books__wrapper {
+  display: inline-flex;
+	width: 45%;
+}
+
+.book__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+  font-size: 20px;
+  padding: 2rem;
+  margin: 3rem;
+  gap: 15px;
+}
+
+.book__img-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.book__img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.book__inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.book__input {
+  font-size: 30px;
+}
+
+.book-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.book__timestamp {
+  text-align: end;
+}
